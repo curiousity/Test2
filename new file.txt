@@ -2,3 +2,4 @@ hello world
 remote edit
 remote edit 2
 local edit1
+local edit
